@@ -5,7 +5,11 @@ desktop toggle is a program which read ~/.toggleconfig and determine whether a w
 
 ### Usage
 Usage: desktop-toggle [options]
+
 Options:
-  no param\t\tshow the desktop and the windows which are appointed in ~/.toggleconfig
-  -l\t\t\tlist the top level windows' names at now\n
+
+&nbsp;&nbsp;no param&nbsp;&nbsp;&nbsp;show the desktop and the windows which are appointed in ~/.toggleconfig
+  
+&nbsp;&nbsp;-l&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tlist the top level windows' names at now\n
+  
 A new toggle program made by Vega. (a senior student of SCU)
