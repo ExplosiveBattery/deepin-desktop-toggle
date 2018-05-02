@@ -13,3 +13,6 @@ Options:
 &nbsp;&nbsp;-l&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tlist the top level windows' names at now\n
   
 A new toggle program made by Vega. (a senior student of SCU)
+
+### more information  
+https://bbs.deepin.org/forum.php?mod=viewthread&tid=155656&extra=
