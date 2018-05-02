@@ -1,5 +1,5 @@
 # desktop-toggle
-###introduction
+### introduction
 desktop toggle is a program which read ~/.toggleconfig and determine whether a window need to be hidden when win-D is click(hide desktop)
 
 
